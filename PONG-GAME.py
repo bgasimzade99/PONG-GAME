@@ -173,3 +173,8 @@ while True:
 	pygame.display.flip()
 	clock.tick(75)
 
+
+
+# making frequent asking 
+
+
